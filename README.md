@@ -46,7 +46,7 @@ We’ve provided [`example.ipynb`](./example.ipynb) as a Google Colab-friendly d
 It trains a simple classifier and shows two separate predictions to illustrate the workflow.
 Check out everyone's notebooks!
 Great ideas so far:
-- Creating heatmaps sourced from images online (Advitya's)
+- Creating heatmaps sourced from images online (Advitiya's)
 - William's Pokemon card classifier
 - Malaria classification by Andrew Yang
 
