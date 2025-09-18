@@ -15,7 +15,7 @@ It should take **1–2 hours** and is meant to be fun and flexible.
 
 ---
 
-## 🛠️ Candidate Task
+## Steps 
 
 1. **Fork or clone** this repository.
 2. **Create a new branch** named `feature/<your-name>`.
@@ -23,13 +23,13 @@ It should take **1–2 hours** and is meant to be fun and flexible.
    - **Step 1:** Generate or load **two images** (from data, synthetic, or AI model).
    - **Step 2:** Apply a transformation or train a simple model that produces different results.
    - **Step 3:** Display both original and transformed/predicted outcomes side-by-side.
-4. **Commit and push** your branch.
+4. **Commit and push** your branch with just **one** ipynb file (edit requirements if needed, making sure it's up to date with master for easy merging).
 5. **Open a Merge Request (PR)** into `main`, document and explain your code in the description, then request review.
 6. Be prepared to explain in the interview along with any technical skills if we ask!
 
 ---
 
-## ✅ Evaluation Criteria
+## Rubric
 - Notebook runs end-to-end without errors.
 - Code is clear, commented, and reproducible.
 - Explanation in the PR is **not written by GPT**, but with your own words. Doesn't have to be crazy.
@@ -44,6 +44,11 @@ It should take **1–2 hours** and is meant to be fun and flexible.
 ## 🚀 Example
 We’ve provided [`example.ipynb`](./example.ipynb) as a Google Colab-friendly demo.  
 It trains a simple classifier and shows two separate predictions to illustrate the workflow.
+Check out everyone's notebooks!
+Great ideas so far:
+- Creating heatmaps sourced from images online (Advitya's)
+- William's Pokemon card classifier
+- Malaria classification by Andrew Yang
 
 ---
 
