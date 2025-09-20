@@ -1,5 +1,8 @@
 # AI Skill Showcase
 
+# Submissions are closed! Thank you for applying to SEE-DR!
+
+
 Welcome! 👋
 
 This repository is designed as a lightweight take-home assessment to help us get to know your skills with AI/ML, Python, and Git workflows.  
